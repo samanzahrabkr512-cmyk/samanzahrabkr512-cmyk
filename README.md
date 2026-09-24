@@ -1,14 +1,14 @@
-👋 Hi, I'm Saman Zahra
+## 👋 Hi, I'm Saman Zahra
 
 🎓 BSIT Student | 🤖 AI & ML Learner | 🐍 Python Enthusiast
 
 <div align="center">🤖 💻 🐍 📊 🚀
 
-Welcome to my GitHub profile!
+## Welcome to my GitHub profile!
 
 </div>---
 
-🌷 About Me
+### 🌷 About Me
 
 <div align="center">🌸 🎓 🤖 💻 🌱
 
@@ -20,7 +20,7 @@ I enjoy discovering how technology works, solving problems, and turning what I l
 
 ---
 
-🧠 My Learning Areas
+##3 🧠 My Learning Areas
 
 <div align="center">🤖 AI    🧩 Machine Learning    📊 Data Science
 
@@ -35,7 +35,7 @@ I enjoy discovering how technology works, solving problems, and turning what I l
 
 ---
 
-💻 Technologies & Tools
+### 💻 Technologies & Tools
 
 🐍 Programming
 
@@ -45,7 +45,7 @@ Python • C++
 
 Pandas • Matplotlib • Seaborn
 
-🛠️ Tools
+### 🛠️ Tools
 
 GitHub • Google Colab • VS Code
 
@@ -53,7 +53,7 @@ GitHub • Google Colab • VS Code
 
 </div>---
 
-🤖 My AI Journey
+### 🤖 My AI Journey
 
 <div align="center">📚
 ⬇️
@@ -73,7 +73,7 @@ I’m gradually moving from basic concepts toward building more practical AI and
 
 ---
 
-📚 Currently Learning
+### 📚 Currently Learning
 
 <div align="center">🤖 🧠 📊 🐍 💻
 
@@ -95,7 +95,7 @@ Improving my programming skills and using Python for AI and data-related tasks.
 
 ---
 
-🛠️ What I Like to Build
+### 🛠️ What I Like to Build
 
 <div align="center">💡 Ideas → Code → Projects → Learning
 
@@ -110,7 +110,7 @@ Improving my programming skills and using Python for AI and data-related tasks.
 
 ---
 
-🎯 My Goals
+### 🎯 My Goals
 
 <div align="center">🌱   💻   🤖   📊   🚀
 
@@ -124,7 +124,7 @@ Improving my programming skills and using Python for AI and data-related tasks.
 
 ---
 
-✨ My Learning Style
+### ✨ My Learning Style
 
 <div align="center">🌱 LEARN
 
@@ -150,7 +150,7 @@ I believe learning becomes stronger when we don't just study concepts, but also 
 
 ---
 
-📂 What's Inside My GitHub?
+### 📂 What's Inside My GitHub?
 
 <div align="center">📁 🐍   📊   🤖   🧠   🚀
 
@@ -166,7 +166,7 @@ I believe learning becomes stronger when we don't just study concepts, but also 
 
 ---
 
-🌱 My Progress
+### 🌱 My Progress
 
 <div align="center">🟢 LEARNING → 🔵 PRACTICING → 🟣 BUILDING → 🚀 GROWING
 
@@ -178,7 +178,7 @@ Future: Advanced AI & Machine Learning 🤖
 
 ---
 
-💫 A Quote I Believe In
+### 💫 A Quote I Believe In
 
 <div align="center">🌸✨
 
@@ -188,7 +188,7 @@ Future: Advanced AI & Machine Learning 🤖
 
 </div>---
 
-🤝 Let's Connect
+### 🤝 Let's Connect
 
 <div align="center">💻 Learn   •   🤝 Connect   •   🚀 Build
 
@@ -198,7 +198,7 @@ Future: Advanced AI & Machine Learning 🤖
 
 <div align="center">💙 Thanks for visiting my profile!
 
-🌱 Keep Learning • 💻 Keep Building • 🚀 Keep Growing
+## 🌱 Keep Learning • 💻 Keep Building • 🚀 Keep Growing
 
 🤖 🐍 📊 💻 ✨
 
