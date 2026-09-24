@@ -194,7 +194,8 @@ Future: Advanced AI & Machine Learning 🤖
 
 </div>I’m always interested in learning, exploring new technologies, and connecting with other people who are also passionate about technology.
 
----
+### Connect with  me
+samanzahrakr512@gmail.com
 
 <div align="center">💙 Thanks for visiting my profile!
 
