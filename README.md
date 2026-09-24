@@ -20,7 +20,7 @@ I enjoy discovering how technology works, solving problems, and turning what I l
 
 ---
 
-##3 🧠 My Learning Areas
+### 🧠 My Learning Areas
 
 <div align="center">🤖 AI    🧩 Machine Learning    📊 Data Science
 
