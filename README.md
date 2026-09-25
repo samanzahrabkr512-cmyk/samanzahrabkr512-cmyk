@@ -5,7 +5,8 @@
 <div align="center">🤖 💻 🐍 📊 🚀
 
 ## Welcome to my GitHub profile!
-
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/564d7998-c331-428a-92a9-f6ea1c23b32e" />
+>
 </div>---
 
 ### 🌷 About Me
